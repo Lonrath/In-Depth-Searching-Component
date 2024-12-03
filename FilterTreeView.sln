@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterTreeView", "FilterTreeView\FilterTreeView.csproj", "{685B7E68-A34B-42FA-A2C1-4EC12F4B44FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685B7E68-A34B-42FA-A2C1-4EC12F4B44FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685B7E68-A34B-42FA-A2C1-4EC12F4B44FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685B7E68-A34B-42FA-A2C1-4EC12F4B44FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685B7E68-A34B-42FA-A2C1-4EC12F4B44FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33928AF-EB8F-4466-B2BA-F6E604C768FD}
+	EndGlobalSection
+EndGlobal
